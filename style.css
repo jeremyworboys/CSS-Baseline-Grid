@@ -1,0 +1,18 @@
+@import "baseline.php?height=24&color=f00";
+
+* { margin:0; padding:0; }
+
+body {
+	line-height: 24px;
+	margin: 24px auto;
+	width: 960px;
+}
+
+h1 {
+	line-height: 48px;
+	margin-bottom: 24px;
+}
+
+p {
+	margin-bottom: 24px;
+}
